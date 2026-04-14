@@ -460,18 +460,6 @@ def test_health_endpoint():
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License. See LICENSE file for details.
-
----
-
-## 👥 Authors
-
-- **Lead Developer:** Your Name (your.email@example.com)
-
----
-
 ## 📞 Questions & Support
 
 - 📖 Read [PROJECT_PLAN.md](PROJECT_PLAN.md) for detailed roadmap
